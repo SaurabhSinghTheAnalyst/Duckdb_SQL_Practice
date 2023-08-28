@@ -1,0 +1,1 @@
+# Duckdb_SQL_Practice
